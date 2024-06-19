@@ -19,5 +19,5 @@ I'm an Android developer who loves creating indie projects. Previously, I was pa
 *Mobile puzzle game for Android and iOS* 
 
 ### 🛠️ Tools
-- **[Escape From Space Shredder](https://assetstore.unity.com/packages/tools/utilities/debuggraphs-74707)** <br/>
+- **[Debug Graphs](https://assetstore.unity.com/packages/tools/utilities/debuggraphs-74707)** <br/>
 *Unity Engine plugin for debugging and data visualization* 
